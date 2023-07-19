@@ -1,0 +1,50 @@
+﻿description,amount,date,category
+Groceries,100,01-12-2022,Grocery
+Gasoline,45,03-12-2022,Transportation
+Movie ticket,12.5,04-12-2022,Entertainment
+Electricity bill,80,05-12-2022,Bills
+Dinner with friends,60,06-12-2022,Food
+Haircut,25,08-12-2022,Personal care
+Internet bill,70,10-12-2022,Bills
+Christmas gift,50,12-12-2022,Gifts
+Car maintenance,150,13-12-2022,Transportation
+Lunch at work,10,15-12-2022,Food
+Groceries,45.3,02-01-2023,Food
+Gasoline,35,04-01-2023,Transportation
+Dinner at Restaurant,78,06-01-2023,Food
+Electricity bill,100,08-01-2023,Electricity and water bills
+Movie ticket,14.5,10-01-2023,Entertainment
+Gym membership,50,12-01-2023,Health
+Lunch at Work,12,14-01-2023,Food
+Internet bill,80,16-01-2023,Bills
+Car Maintenance,250,18-01-2023,Transportation
+New Shoes,85,20-01-2023,Clothing
+Weekend Getaway,300,22-01-2023,Travel
+Groceries,52.6,01-04-2023,Food
+Gasoline,40,03-04-2023,Transportation
+Lunch with Friends,45,05-04-2023,Food
+Electricity bill,95,07-04-2023,Bills
+Movie ticket,12.5,09-04-2023,Entertainment
+Gym membership,50,11-04-2023,Health
+Dinner at Restaurant,75,13-04-2023,Food
+Internet bill,75,15-04-2023,Bills
+Car Maintenance,200,17-04-2023,Transportation
+New Book,20,19-04-2023,Entertainment
+Weekend Getaway,350,22-04-2023,Travel
+Grocery at Walmart,100,20-03-2022,Grocery
+Dinner at Olive Garden,50,21-03-2022,Food
+Fee for online course,200,22-03-2022,Fee
+Electricity bill for January,80,23-03-2022,Bills
+Rent for February,1000,24-03-2022,House Rent
+Gas at Shell,30,25-03-2022,Transportation
+Water bill for January,50,26-03-2022,Bills
+Miscellaneous expenses,75,27-03-2022,Miscallenous
+Lunch at Subway,10,28-03-2022,Food
+Phone bill for March,50,29-03-2022,Bills
+Clothing purchase,150,30-03-2022,Clothing
+Internet bill for March,70,31-03-2022,Bills
+Grocery at Kroger,75,01-04-2022,Grocery
+Parking fee,10,02-04-2022,Fee
+Dinner at Applebee's,45,03-04-2022,Food
+Rent for March,1000,04-04-2022,House Rent
+Electricity bill for February,90,05-04-2022,Bills
